@@ -36,7 +36,8 @@ NEXI_VID = [
 "https://graph.org/file/318eac81e3d4667edcb77.mp4",
 "https://graph.org/file/7c1aa59649fbf3ab422da.mp4",
 "https://graph.org/file/2a7f857f31b32766ac6fc.mp4",
-
+"https://te.legra.ph/file/3a7823ca080736e0b66c0.mp4", 
+ 
 ]
 
 
