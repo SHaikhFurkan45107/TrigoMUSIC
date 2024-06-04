@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Ownergit")
+OWNER_USERNAME = getenv("OWNER_USERNAME","imtrigo")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "NexikoBot")
 # --------------------------------------------------------
